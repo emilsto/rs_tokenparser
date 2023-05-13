@@ -1,0 +1,31 @@
+{
+  "people": [
+    {
+      "name": "Aino Aalto",
+      "address": {
+        "street": "Keskuskatu 1",
+        "city": "Helsinki",
+        "state": "",
+        "zip": "00100"
+      }
+    },
+    {
+      "name": "Eero Saarinen",
+      "address": {
+        "street": "Sörnäisten rantatie 22",
+        "city": "Helsinki",
+        "state": "",
+        "zip": "00500"
+      }
+    },
+    {
+      "name": "Alvar Aalto",
+      "address": {
+        "street": "Rautatalo, Keskuskatu 3",
+        "city": "Helsinki",
+        "state": "",
+        "zip": "00100"
+      }
+    }
+  ]
+}
